@@ -23,7 +23,7 @@ A simple Android application built using **Kotlin** and **Jetpack Compose** demo
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/android-navigation.git
+   git clone https://github.com/ChaninduImanjith/android-navigation.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle and run the app on an Android Emulator or physical device.
